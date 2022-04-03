@@ -3,7 +3,7 @@
 </p>
 
 <h3> Hey there👋! I'm Abhishek Pophale.</h2>
-<h2> Currently working as a Software Engineer </h2>
+<h2> Currently looking for opportunities as Full Stack Blockchain Developer </h2>
 
 ## 👨🏻‍💻 &nbsp;About Me 
 
